@@ -52,8 +52,8 @@ Simply execute generated output file to get stats:
 
 
 ## References:
-[technicalstuff.wordpress](https://technicalandstuff.wordpress.com/2015/05/15/using-intels-pcm-in-linux-and-inside-c/)
-[docs.it4i.cz](https://docs.it4i.cz/software/debuggers/intel-performance-counter-monitor/)
+* [technicalstuff.wordpress](https://technicalandstuff.wordpress.com/2015/05/15/using-intels-pcm-in-linux-and-inside-c/)
+* [docs.it4i.cz](https://docs.it4i.cz/software/debuggers/intel-performance-counter-monitor/)
 
 
 
