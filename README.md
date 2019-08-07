@@ -36,7 +36,9 @@ export LD_LIBRARY_PATH=/home/<username>/pcm:$LD_LIBRARY_PATH
 Keep the code "file.cpp" in pcm directory.
 
 ### Compile using:
+```bash
 g++ -std=c++11 file.cpp -o output -L ./ -lpcm
+```
 
 ### Using PCM to get stats for c++ programs:
 Simply execute generated output file to get stats:
